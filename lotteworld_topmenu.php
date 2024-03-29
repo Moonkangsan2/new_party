@@ -34,7 +34,7 @@
         <li><a href="lotteworld_peraid_list.php" class="nav-link  mx-2 px-2 link-dark">이벤트 안내</a></li>
         <li><a href="lotteworld_service.php" class="nav-link  mx-2 px-2 link-dark">소통 서비스</a></li>
         <!-- <li><a href="lotteworld_faq.php" class="nav-link  mx-2 px-2 link-dark">이용 가이드</a></li> -->
-        <li><a href="lotteworld_notice.php" class="nav-link px-2 link-dark">공지사항</a></li>
+        <li><a href="lotteworld_notice.php" class="nav-link px-2 link-dark">공지사항이당</a></li>
       </ul>
       <?
         if(isset($_SESSION['userid'])){

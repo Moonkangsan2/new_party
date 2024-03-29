@@ -10,6 +10,6 @@ $query = $conn->query($sql);
 ?>
 
 <script>
-    alert('삭제 되었습니다.');
+    alert('삭제 되었습니닥zz');
     location.href="lotteworld_mypage.php";
 </script>
